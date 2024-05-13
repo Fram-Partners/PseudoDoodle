@@ -12,8 +12,8 @@ Note: in the following example the IDs are `long`s that start from 0. That's not
 
 Some guidelines:
 
-- Your solution should be able to scale for a larger purpose. Imagine the app being extended to cover a larger API and/or a bigger feature set.
-- Showcase your abilities, and use the task to demonstrate your idea of best practices, regarding coding style, project structure, frameworks, patterns, design, testing etc.
+- Your solution should be written with some thought given to future scaling. Consider how it might handle new APIs, feature changes, etc.
+- Try to demonstrate your abilities, but keep in mind that this project shouldn't take too long to complete. Don't necessarily try to write production-grade code, but be prepared to discuss any trade-offs that you made.
 - There is no right or wrong solution, as long as it is your solution.
 - Be prepared to describe your work in detail.
 
